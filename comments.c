@@ -3,7 +3,7 @@
 /* 
    This is a multi-line comment.
    You can use this to explain larger blocks of code,
-   functions, or provide general program documentation.
+   functions.
 */
 
 int main()
@@ -13,7 +13,7 @@ int main()
     printf("enter age");
     scanf("%d",&age);
 
-    // This is another single-line comment: Printing the value to the console
+    // This is another single-line comment: Printing the age
     printf("Age: %d\n", age); 
 
     return 0;
